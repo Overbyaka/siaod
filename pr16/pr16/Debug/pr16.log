@@ -1,0 +1,26 @@
+﻿  Source.cpp
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(12,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(15,11): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(29,46): warning C4244:  инициализация: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(29,46): warning C4244:         with
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(29,46): warning C4244:         [
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(29,46): warning C4244:             _Ty=double
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(29,46): warning C4244:         ]
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(31,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(34,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(36,17): warning C4244:  инициализация: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(36,17): warning C4244:         with
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(36,17): warning C4244:         [
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(36,17): warning C4244:             _Ty=double
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(36,17): warning C4244:         ]
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(37,25): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(53,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(63,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(70,10): warning C4244:  return: преобразование "double" в "int", возможна потеря данных
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(74,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(83,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(90,10): warning C4244:  return: преобразование "double" в "int", возможна потеря данных
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(101,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(105,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr16\pr16\Source.cpp(107,22): warning C4018:  <: несоответствие типов со знаком и без знака
+  pr16.vcxproj -> C:\Users\evg\source\repos\pr16\Debug\pr16.exe
