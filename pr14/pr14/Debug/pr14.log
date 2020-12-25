@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\evg\source\repos\pr14\pr14\Source.cpp(42,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr14\pr14\Source.cpp(44,22): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr14\pr14\Source.cpp(54,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr14\pr14\Source.cpp(93,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr14\pr14\Source.cpp(100,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr14\pr14\Source.cpp(101,22): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr14\pr14\Source.cpp(108,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr14\pr14\Source.cpp(114,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr14\pr14\Source.cpp(115,22): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr14\pr14\Source.cpp(132,6): warning C4101:  pr: неиспользованная локальная переменная
+  pr14.vcxproj -> C:\Users\evg\source\repos\pr14\Debug\pr14.exe
