@@ -1,0 +1,5 @@
+﻿  FileWork.cpp
+C:\Users\evg\source\repos\pr12\pr12\FileWork.cpp(22,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\evg\source\repos\pr12\pr12\FileWork.cpp(58,6): warning C4101:  n: неиспользованная локальная переменная
+C:\Users\evg\source\repos\pr12\pr12\FileWork.cpp(115,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  pr12.vcxproj -> C:\Users\evg\source\repos\pr12\Debug\pr12.exe
